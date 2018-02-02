@@ -69,7 +69,7 @@ function draw() {
   	text("CORRECT!", 700,300);
   	spr.setSpeed(0,0);
   	noLoop();
-  	createA('http://p5js.org/', 'Click here to Proceed', 800,300);
+  	createA('https://github.com/gkrajay/game2.git', 'Click here to Proceed', 800,300);
   }
 }
 function keyPressed() {
